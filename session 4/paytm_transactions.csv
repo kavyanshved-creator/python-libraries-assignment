@@ -1,0 +1,5 @@
+Transaction_ID;Amount;Payment_Method;Status
+101;500;UPI;Success
+102;;Card;Failed
+103;250;Wallet;
+104;100;UPI;Success
